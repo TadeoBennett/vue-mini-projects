@@ -1,0 +1,41 @@
+// app global css in SCSS form
+*{
+  box-sizing: border-box;
+}
+.home-link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link-item,
+.nav-link-caption {
+  color: white;
+}
+
+.toggleSidebarMenu {
+  color: white;
+  font-size: 2em;
+  cursor: pointer;
+}
+
+.page-heading {
+  margin: 0;
+}
+
+.dashcard-value {
+  font-size: 1.6em;
+}
+
+.card-input {
+  font-size: 1.3em;
+}
+
+.custom-input-padding {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+
+
+
+

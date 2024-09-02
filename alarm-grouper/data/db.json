@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "id": "d39f",
+      "name": "None",
+      "description": "",
+      "color": "",
+      "createdAt": "2024-09-01T14:13:25.004Z"
+    }
+  ],
+  "alarms": [
+    {
+      "id": "fed0",
+      "name": "Go For Lunch",
+      "description": "Just some normal text",
+      "category": "None",
+      "color": "",
+      "ringTime": "23:25",
+      "ringDate": "2025/09/05",
+      "active": true,
+      "createdAt": "2024-09-01T22:09:59.698Z"
+    }
+  ]
+}

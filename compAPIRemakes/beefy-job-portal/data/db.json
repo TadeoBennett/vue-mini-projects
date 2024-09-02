@@ -1,0 +1,511 @@
+{
+    "jobs": [
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "UX Designer",
+            "id": 1,
+            "company": "Tech Innovators Inc.",
+            "location": "New York, NY",
+            "type": "Full-time",
+            "salary": "$80,000 - $100,000",
+            "postedDate": "2024-08-25",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "User Research",
+                "Wireframing",
+                "Prototyping",
+                "Adobe XD",
+                "Figma"
+            ],
+            "details": "Looking for a creative UX Designer to join our team and help design cutting-edge user experiences."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Web Designer",
+            "id": 2,
+            "company": "Creative Minds Studio",
+            "location": "San Francisco, CA",
+            "type": "Part-time",
+            "salary": "$40,000 - $60,000",
+            "postedDate": "2024-08-20",
+            "experienceLevel": "Entry-level",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Adobe Photoshop",
+                "Responsive Design"
+            ],
+            "details": "Seeking a Web Designer to create visually stunning websites and digital assets."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Web Developer",
+            "id": 3,
+            "company": "Web Wizards LLC",
+            "location": "Remote",
+            "type": "Contract",
+            "salary": "$60/hour",
+            "postedDate": "2024-08-22",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "JavaScript",
+                "React",
+                "Node.js",
+                "MongoDB ",
+                "REST APIs"
+            ],
+            "details": "Experienced Web Developer needed for a 6-month contract to build dynamic web applications."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Senior Data Analyst",
+            "id": 4,
+            "company": "Data Solutions Group",
+            "location": "Chicago, IL",
+            "type": "Full-time",
+            "salary": "$90,000 - $120,000",
+            "postedDate": "2024-08-21",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "SQL",
+                "Python",
+                "Tableau",
+                "Data Visualization",
+                "Statistical Analysis"
+            ],
+            "details": "We are looking for a Senior Data Analyst to interpret complex data sets and provide actionable insights."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Mobile App Developer",
+            "id": 5,
+            "company": "AppVentures Inc.",
+            "location": "Austin, TX",
+            "type": "Full-time",
+            "salary": "$85,000 - $110,000",
+            "postedDate": "2024-08-19",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Flutter",
+                "Dart",
+                "iOS",
+                "Android",
+                "UI/UX Design"
+            ],
+            "details": "Join our team as a Mobile App Developer to create innovative apps for both Android and iOS platforms."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Digital Marketing Specialist",
+            "id": 6,
+            "company": "Marketing Gurus Co.",
+            "location": "Los Angeles, CA",
+            "type": "Part-time",
+            "salary": "$70,000 - $90,000",
+            "postedDate": "2024-08-18",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "SEO",
+                "Content Marketing",
+                "Google Analytics",
+                "PPC",
+                "Social Media"
+            ],
+            "details": "We are hiring a Digital Marketing Specialist to develop and execute online marketing strategies."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Cybersecurity Engineer",
+            "id": 7,
+            "company": "SecureTech Solutions",
+            "location": "Seattle, WA",
+            "type": "Full-time",
+            "salary": "$100,000 - $130,000",
+            "postedDate": "2024-08-15",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "Network Security",
+                "Penetration Testing",
+                "Firewalls",
+                "SIEM",
+                "Incident Response"
+            ],
+            "details": "Seeking a skilled Cybersecurity Engineer to protect our networks and systems from cyber threats."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Product Manager",
+            "id": 8,
+            "company": "Innovative Products Inc.",
+            "location": "Boston, MA",
+            "type": "Full-time",
+            "salary": "$95,000 - $125,000",
+            "postedDate": "2024-08-17",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Product Roadmaps",
+                "Agile Methodologies",
+                "Stakeholder Management",
+                "Market Research",
+                "JIRA"
+            ],
+            "details": "We are seeking a Product Manager to lead the development and launch of new products in our portfolio."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "Graphic Designer",
+            "id": 9,
+            "company": "Creative Designs Ltd.",
+            "location": "Portland, OR",
+            "type": "Part-time",
+            "salary": "$50,000 - $70,000",
+            "postedDate": "2024-08-23",
+            "experienceLevel": "Entry-level",
+            "skills": [
+                "Adobe Creative Suite",
+                "Illustration",
+                "Branding",
+                "Typography",
+                "Print Design"
+            ],
+            "details": "Looking for a talented Graphic Designer to create visually compelling designs for print and digital media."
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "title": "DevOps Engineer",
+            "id": 10,
+            "company": "CloudOps Solutions",
+            "location": "Denver, CO",
+            "type": "Contract",
+            "salary": "$110,000 - $140,000",
+            "postedDate": "2024-08-16",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "CI/CD",
+                "Automation"
+            ],
+            "details": "Join our DevOps team to automate and optimize our cloud infrastructure and deployment processes."
+        }
+    ],
+    "users": [
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "location": "New York, NY",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "UX Design",
+                "User Research",
+                "Prototyping",
+                "Adobe XD",
+                "Figma"
+            ],
+            "appliedJobs": [
+                1,
+                5
+            ],
+            "savedJobs": [
+                3,
+                4
+            ],
+            "profileComplete": 95,
+            "gender": "Male"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "location": "San Francisco, CA",
+            "experienceLevel": "Entry-level",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Responsive Design",
+                "Adobe Photoshop"
+            ],
+            "appliedJobs": [
+                2
+            ],
+            "savedJobs": [
+                9,
+                10
+            ],
+            "profileComplete": 80,
+            "gender": "Female"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 3,
+            "name": "Michael Johnson",
+            "email": "michael.johnson@example.com",
+            "location": "Chicago, IL",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "Data Analysis",
+                "SQL",
+                "Python",
+                "Tableau",
+                "Data Visualization"
+            ],
+            "appliedJobs": [
+                4,
+                7
+            ],
+            "savedJobs": [
+                1,
+                6
+            ],
+            "profileComplete": 100,
+            "gender": "Male"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 4,
+            "name": "Emily Davis",
+            "email": "emily.davis@example.com",
+            "location": "Austin, TX",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Mobile App Development",
+                "Flutter",
+                "Dart",
+                "iOS",
+                "Android"
+            ],
+            "appliedJobs": [
+                5
+            ],
+            "savedJobs": [
+                3,
+                8
+            ],
+            "profileComplete": 90,
+            "gender": "Female"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 5,
+            "name": "William Brown",
+            "email": "william.brown@example.com",
+            "location": "Los Angeles, CA",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Digital Marketing",
+                "SEO",
+                "Content Marketing",
+                "Google Analytics",
+                "PPC"
+            ],
+            "appliedJobs": [
+                6
+            ],
+            "savedJobs": [
+                2,
+                7
+            ],
+            "profileComplete": 85,
+            "gender": "Male"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 6,
+            "name": "Olivia Wilson",
+            "email": "olivia.wilson@example.com",
+            "location": "Seattle, WA",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "Cybersecurity",
+                "Network Security",
+                "Penetration Testing",
+                "SIEM",
+                "Incident Response"
+            ],
+            "appliedJobs": [
+                7
+            ],
+            "savedJobs": [
+                3,
+                4
+            ],
+            "profileComplete": 98,
+            "gender": "Female"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 7,
+            "name": "James Martinez",
+            "email": "james.martinez@example.com",
+            "location": "Boston, MA",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Product Management",
+                "Agile Methodologies",
+                "Market Research",
+                "Stakeholder Management",
+                "JIRA"
+            ],
+            "appliedJobs": [
+                8
+            ],
+            "savedJobs": [
+                1,
+                5
+            ],
+            "profileComplete": 88,
+            "gender": "Male"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 8,
+            "name": "Sophia Anderson",
+            "email": "sophia.anderson@example.com",
+            "location": "Portland, OR",
+            "experienceLevel": "Entry-level",
+            "skills": [
+                "Graphic Design",
+                "Adobe Creative Suite",
+                "Branding",
+                "Typography",
+                "Print Design"
+            ],
+            "appliedJobs": [
+                9
+            ],
+            "savedJobs": [
+                2,
+                10
+            ],
+            "profileComplete": 75,
+            "gender": "Female"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 9,
+            "name": "David Lee",
+            "email": "david.lee@example.com",
+            "location": "Denver, CO",
+            "experienceLevel": "Senior-level",
+            "skills": [
+                "DevOps",
+                "AWS",
+                "Docker",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "appliedJobs": [
+                10
+            ],
+            "savedJobs": [
+                1,
+                6
+            ],
+            "profileComplete": 93,
+            "gender": "Male"
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "id": 10,
+            "name": "Emma White",
+            "email": "emma.white@example.com",
+            "location": "Remote",
+            "experienceLevel": "Mid-level",
+            "skills": [
+                "Content Writing",
+                "SEO",
+                "Copywriting",
+                "Social Media",
+                "WordPress"
+            ],
+            "appliedJobs": [
+                6,
+                7
+            ],
+            "savedJobs": [
+                3,
+                5
+            ],
+            "profileComplete": 85,
+            "gender": "Female"
+        }
+    ],
+    "companies": [
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Tech Innovators Inc.",
+            "location": "New York, NY",
+            "industry": "Technology",
+            "employees": 200
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Creative Minds Studio",
+            "location": "San Francisco, CA",
+            "industry": "Design",
+            "employees": 50
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Web Wizards LLC",
+            "location": "Remote",
+            "industry": "Web Development",
+            "employees": 30
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Data Solutions Group",
+            "location": "Chicago, IL",
+            "industry": "Data Analytics",
+            "employees": 150
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "AppVentures Inc.",
+            "location": "Austin, TX",
+            "industry": "Mobile Development",
+            "employees": 80
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Marketing Gurus Co.",
+            "location": "Los Angeles, CA",
+            "industry": "Marketing",
+            "employees": 60
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "SecureTech Solutions",
+            "location": "Seattle, WA",
+            "industry": "Cybersecurity",
+            "employees": 100
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Innovative Products Inc.",
+            "location": "Boston, MA",
+            "industry": "Product Management",
+            "employees": 120
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "Creative Designs Ltd.",
+            "location": "Portland, OR",
+            "industry": "Graphic Design",
+            "employees": 40
+        },
+        {
+            "image": "https://via.placeholder.com/150",
+            "name": "CloudOps Solutions",
+            "location": "Denver, CO",
+            "industry": "Cloud Computing",
+            "employees": 90
+        }
+    ]
+}
