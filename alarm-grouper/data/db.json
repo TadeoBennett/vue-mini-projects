@@ -1,24 +1,19 @@
 {
   "categories": [
     {
-      "id": "d39f",
+      "id": "2399",
       "name": "None",
       "description": "",
       "color": "",
-      "createdAt": "2024-09-01T14:13:25.004Z"
+      "createdAt": "2024-09-02T14:38:37.172Z"
+    },
+    {
+      "id": "e8f4",
+      "name": "Caretret",
+      "description": "",
+      "color": "",
+      "createdAt": "2024-09-04T19:11:07.124Z"
     }
   ],
-  "alarms": [
-    {
-      "id": "fed0",
-      "name": "Go For Lunch",
-      "description": "Just some normal text",
-      "category": "None",
-      "color": "",
-      "ringTime": "23:25",
-      "ringDate": "2025/09/05",
-      "active": true,
-      "createdAt": "2024-09-01T22:09:59.698Z"
-    }
-  ]
+  "alarms": []
 }
