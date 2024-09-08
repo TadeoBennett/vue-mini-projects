@@ -71,3 +71,4 @@ Steps are Similar to that of preparing a vue js project. Use the command below t
 ## Note
 
 The setup instructions for running Vue.js or Quasar applications are specific to each project. Not all projects use Quasar—some may use Vue.js alone. Check the project’s documentation for specific setup instructions.
+
